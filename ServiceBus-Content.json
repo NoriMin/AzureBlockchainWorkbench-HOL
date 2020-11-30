@@ -1,0 +1,43 @@
+{
+    "requestId": "",
+    "userChainIdentifier": "<User chain address with BlockchainAgent role>",
+    "applicationName": "FileRegistry",
+    "workflowName": "File",
+    "parameters": [
+        {
+            "name": "registryAddress",
+            "value": "<File Registry contract address from Azure Blockchain Workbench>"
+        },
+        {
+            "name": "fileId",
+            "value": ""
+        },
+        {
+            "name": "location",
+            "value": ""
+        },
+        {
+            "name": "fileHash",
+            "value": ""
+        },
+        {
+            "name": "fileMetadataHash",
+            "value": ""
+        },
+        {
+            "name": "contentType",
+            "value": ""
+        },
+        {
+            "name": "etag",
+            "value": 
+        },
+        {
+            "name": "processedDateTime",
+            "value": ""
+        }           
+    ],
+    "connectionId": 1,
+    "messageSchemaVersion": "1.0.0",
+    "messageName": "CreateContractRequest"
+}
